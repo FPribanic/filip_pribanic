@@ -1,0 +1,49 @@
+/* CSS document */
+p {
+	color: green;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 800px;
+	background-color: antiquewhite;
+	padding: 20px;
+	}
+	.paragraf_2 {
+		color: pink;
+		background-color: rgba(0, 0, 0, 0.85);
+	}
+	.novi_blok {
+		background-color: rgba(0, 0, 0, 0.85);
+		padding: 20px;
+		margin: 20px;
+		width: 50%;
+	}
+	h1, h2 {
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		color: #ffeace;
+		text-shadow: 2px 2px #ff0000;
+	}
+	span {color: rgb(255, 0, 255);}
+	.pozadina {
+		background-image: url("Slike/skull.gif")
+	}
+	.drugapozadina {
+		background-color: darkgray;
+	}
+	a:link {
+		color: tomato;
+		background-color: pink;
+		padding: 5px;
+		line-height: 40px;
+		border: 4px outset tomato;
+	}
+	a:hover {
+		background-color: pink;
+		border: 4px inset tomato;
+	}
+	a:visited {
+		border: 4px inset tomato;
+	}
+	img{
+		height: 200px;
+	}
